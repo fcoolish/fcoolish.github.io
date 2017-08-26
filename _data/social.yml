@@ -2,7 +2,7 @@
   link: 'https://github.com/fcoolish'
   social_icon: Github
   new_window: true
-- name: RSS
-  link: '/feed.xml'
-  social_icon: RSS
+- name: Zhihu
+  link: 'https://www.zhihu.com/people/fcoolish'
+  social_icon: Zhihu
   new_window: true
