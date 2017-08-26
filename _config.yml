@@ -1,6 +1,6 @@
 locale: "en-US"
-title: Strata # Title of your site
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+title: fcoolish的个人博客 # Title of your site
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name: Your Name
-  email: your-email@domain.com
+  name: fcoolish
+  email: fcoolish@qq.com
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
@@ -41,12 +41,6 @@ webmaster_verifications:
 # CloudCannon
 
 social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
+
+  - Github  
   - RSS

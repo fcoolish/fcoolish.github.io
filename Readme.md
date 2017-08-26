@@ -2,7 +2,7 @@
 
 Simple, clean personal blogging template for Jekyll based on Strata by HTML5 UP.
 
-![Strata Reloaded template screenshot](images/_screenshot.png)
+<--![Strata Reloaded template screenshot](images/_screenshot.png)-->
 
 ## Features
 

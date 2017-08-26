@@ -1,6 +1,6 @@
-- name: Facebook
-  link: 'https://www.facebook.com/comfusionllc'
-  social_icon: Facebook
+- name: Github
+  link: 'https://github.com/fcoolish'
+  social_icon: Github
   new_window: true
 - name: RSS
   link: '/feed.xml'
