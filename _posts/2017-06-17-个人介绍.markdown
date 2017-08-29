@@ -1,4 +1,4 @@
 ---
 layout: post
 ---
-<img src="/images/resume.png" width="800px" class="fit image"> 
+<img src="/images/resume.png" width="800px" class="fit image"> 以上是我的简历，大学花了很多时间自学，希望能找到一份满意的工作，加油啊~
