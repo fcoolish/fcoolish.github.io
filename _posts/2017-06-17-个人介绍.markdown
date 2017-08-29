@@ -1,4 +1,0 @@
----
-layout: post
----
-<img src="/images/fulls/03.jpg" class="fit image"> 这是fcoolish的第一篇博文，等我有空再来更新吧，因为他巨懒~~~
