@@ -1,4 +1,4 @@
 ---
 layout: post
 ---
-<img src="/images/resume.png" class="fit image"> 目前正在忙着校招刷题找工作，可能一不小心就会掉入失业大军，等我有空再来更新文章吧~~~
+<img src="/images/resume.png" width="800" class="fit image"> 目前正在忙着校招刷题找工作，可能一不小心就会掉入失业大军，等我有空再来更新文章吧~~~
