@@ -1,4 +1,4 @@
 ---
 layout: post
 ---
-<img src="/images/resume.png" width="800px" class="fit image"> 以上是我的简历，大学花了很多时间自学，希望能找到一份满意的工作，加油啊~
+<img src="/images/fulls/03.jpg" class="fit image">这是一个懒人的博客,等我找到工作再来记录吧~
