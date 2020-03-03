@@ -1,4 +1,5 @@
 ---
 layout: post
 ---
-<img src="/images/fulls/03.jpg" class="fit image">这是一个懒人的博客,等我找到工作再来记录吧~
+<img src="/images/fulls/03.jpg" class="fit image">这是一个懒人的博客,有时间记录自己的技术笔记吧~
+包括但不限于Java、算法、信息安全相关。
